@@ -1,5 +1,5 @@
 # PHY-604
-Computational Methods in Physics and Astrophysics II - Michael Zingale
+
 Don't worry head, the computer will do our thinking now - Homer Simpson
 
 This repo consists of assignments and some example programs from the PHY 604 course in Fall 2017 taken by Michael Zingale.
